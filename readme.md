@@ -1,4 +1,4 @@
-# Mask detector using tensorflow keras
+# Mask detection using tensorflow keras
 
 Predicting whether a person is wearing a mask or not using the intelligent tensorflow library.
 
@@ -28,5 +28,8 @@ Then test it by running the file
 detect_mask_video.py
 ```
 ## Result
-No Mask
+### Without Mask
 ![nomask](https://github.com/shezin888/Mask-detector/blob/master/without_mask.png?raw=true)
+### With Mask
+![mask](https://github.com/shezin888/Mask-detector/blob/master/with_mask.png?raw=true)
+
