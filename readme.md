@@ -28,5 +28,5 @@ Then test it by running the file
 detect_mask_video.py
 ```
 ## Result
-
+No Mask
 ![nomask](https://github.com/shezin888/Mask-detector/blob/master/without_mask.png?raw=true)
