@@ -29,7 +29,9 @@ detect_mask_video.py
 ```
 ## Result
 ### Without Mask
-![nomask](https://github.com/shezin888/Mask-detector/blob/master/without_mask.png?raw=true)
+![without_mask](without_mask.png)
 ### With Mask
-![mask](https://github.com/shezin888/Mask-detector/blob/master/with_mask.png?raw=true)
+![with_mask](with_mask.png)
+
+Result is almost accurate, and also detects if more than one person is there in the frame
 
